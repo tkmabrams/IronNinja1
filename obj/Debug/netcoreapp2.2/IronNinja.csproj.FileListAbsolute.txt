@@ -1,0 +1,11 @@
+/Users/taishekenya/Desktop/C#_stack/IronNinja/bin/Debug/netcoreapp2.2/IronNinja.deps.json
+/Users/taishekenya/Desktop/C#_stack/IronNinja/bin/Debug/netcoreapp2.2/IronNinja.runtimeconfig.json
+/Users/taishekenya/Desktop/C#_stack/IronNinja/bin/Debug/netcoreapp2.2/IronNinja.runtimeconfig.dev.json
+/Users/taishekenya/Desktop/C#_stack/IronNinja/bin/Debug/netcoreapp2.2/IronNinja.dll
+/Users/taishekenya/Desktop/C#_stack/IronNinja/bin/Debug/netcoreapp2.2/IronNinja.pdb
+/Users/taishekenya/Desktop/C#_stack/IronNinja/obj/Debug/netcoreapp2.2/IronNinja.csprojAssemblyReference.cache
+/Users/taishekenya/Desktop/C#_stack/IronNinja/obj/Debug/netcoreapp2.2/IronNinja.csproj.CoreCompileInputs.cache
+/Users/taishekenya/Desktop/C#_stack/IronNinja/obj/Debug/netcoreapp2.2/IronNinja.AssemblyInfoInputs.cache
+/Users/taishekenya/Desktop/C#_stack/IronNinja/obj/Debug/netcoreapp2.2/IronNinja.AssemblyInfo.cs
+/Users/taishekenya/Desktop/C#_stack/IronNinja/obj/Debug/netcoreapp2.2/IronNinja.dll
+/Users/taishekenya/Desktop/C#_stack/IronNinja/obj/Debug/netcoreapp2.2/IronNinja.pdb
